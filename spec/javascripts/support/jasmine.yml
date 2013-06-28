@@ -1,0 +1,5 @@
+src_dir: src
+src_files: ['javascripts/all.js']
+spec_files: ['spec.js']
+stylesheets: ['/stylesheets/all.css']
+
