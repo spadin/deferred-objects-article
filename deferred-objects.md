@@ -84,7 +84,7 @@ mouse events to create a simple mouse dexterity game.
 
 #### Code examples
 
-<iframe src="http://localhost:9999/" frameborder="0" width="600" height="160" 
+<iframe src="http://sa.ndropad.in/deferred-objects-article/build/" frameborder="0" width="600" height="160" 
 style="margin: 0 auto;"></iframe><br>
 <small>[Play the game][7] in a new window or [view the source][2] on 
 Github.</small>
@@ -172,10 +172,10 @@ asynchronous control flows, check out the articles below.
 - [Async.js library][6]
 
 [1]: http://api.jquery.com/category/deferred-object/
-[2]: https://github.com/spadin/futures-and-promises/tree/master/code
+[2]: https://github.com/spadin/deferred-objects-article/
 [3]: http://api.jquery.com/category/deferred-object/
 [4]: http://en.wikipedia.org/wiki/Futures_and_promises
 [5]: http://blogs.msdn.com/b/ie/archive/2011/09/11/asynchronous-programming-in-javascript-with-promises.aspx
 [6]: https://github.com/caolan/async
-[7]: http://sa.ndropad.in/futures-and-promises/code/
+[7]: http://sa.ndropad.in/deferred-objects-article/build/
 [8]: http://api.jquery.com/jQuery.ajax/#jqXHR
