@@ -3,7 +3,7 @@
   <div class="time"></div>
   <div class="message"></div>
   <div class="feedback">
-    <img class="win"  src="/images/thumbs-up.jpg" width="130">
-    <img class="lose" src="/images/loser.jpg" width="130">
+    <img class="win"  src="images/thumbs-up.jpg" width="130">
+    <img class="lose" src="images/loser.jpg" width="130">
   <div>
 </div>
