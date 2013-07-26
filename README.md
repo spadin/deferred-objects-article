@@ -2,16 +2,16 @@ Deferred Objects Article
 
 To read the article visit the [8th Light Blog][1].
 
-### Running this locally
+### Local setup
 
     $ bundle install
     $ bundle exec middleman server
 
-### To play the game
+### Play
 
   [http://localhost:4567][2]
 
-### To run the specs
+### Run specs
 
   [http://localhost:4567/jasmine][3]
 
